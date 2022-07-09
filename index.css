@@ -4,5 +4,5 @@
 
 .Hello {
     background-color: #EEEEEE;
-    @apply font-bold;
+    @apply text-red-500;
 }
